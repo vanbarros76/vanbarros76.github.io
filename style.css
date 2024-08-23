@@ -28,7 +28,7 @@
   
   #menu {
     background-color: var(--header-bg-color);
-    height: 70px;
+    height: 120px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -227,12 +227,7 @@
     font-size: 2rem;
   }
 
-@media only screen and (max-width: 767px) {
-  body {
-    font-size: 14px;
-  }
-
-  .projetos {
+ .projetos {
     flex-direction: column;
     gap: 20px;
   }
@@ -241,6 +236,11 @@
     flex-direction: column;
     gap: 20px;
   }
+
+  @media only screen and (max-width: 767px) {
+    body {
+      font-size: 14px;
+    }
 
   @media only screen and (min-width: 768px) and (max-width: 1023px) {
 
@@ -277,5 +277,13 @@
       margin-bottom: 20px;
   }
 }
+
+@media (max-width: 767px) { /* Ajuste o valor conforme necessário */
+  .menu-contato img {
+      margin-right: 12px; /* Aumente o valor para mais espaço entre os ícones */
+      width: 30px; /* Ajuste o tamanho dos ícones conforme necessário */
+  }
+}
+
 
 }
