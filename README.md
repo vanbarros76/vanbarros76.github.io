@@ -1,7 +1,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E2CF7&height=120&section=header&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=50&fontAlignY=35"/>
-
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E2CF7&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+Eu+sou+a+Vanessa+Barros+%F0%9F%91%8B;Web3+Blockchain+Engineer+%F0%9F%94%97;Transformando+ideias+em+Smart+Contracts+%E2%9C%A8" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E2CF7&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+Eu+sou+a+Vanessa+Barros+%F0%9F%91%8B;Web3+Blockchain+Engineer+%F0%9F%94%97;Transformando+ideias+em+Smart+Contracts+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -31,10 +32,6 @@
     Featured Projects
   </h2>
   
-  <a href="https://github.com/vanbarros76/Desafio30K" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanbarros76&repo=Desafio30K&theme=midnight-purple&bg_color=0D1117&hide_border=false&border_color=6E2CF7"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/vanbarros76/Dojo-Solidity" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanbarros76&repo=Dojo-Solidity&theme=midnight-purple&bg_color=0D1117&hide_border=false&border_color=6E2CF7"/>
   </a>
@@ -45,11 +42,9 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanbarros76&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=false&border_color=6E2CF7&title_color=6E2CF7&icon_color=FF69B4"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanbarros76&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=false&border_color=6E2CF7&title_color=6E2CF7"/>
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <!-- Most Used Languages centralizado -->
+  <img style="display: block; margin: 0 auto;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanbarros76&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=false&border_color=6E2CF7&title_color=6E2CF7"/>
+  <img style="display: block; margin: 0 auto;" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <br>
@@ -72,6 +67,12 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
 </div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E2CF7&height=120&section=footer"/>
+</div>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E2CF7&height=120&section=footer"/>
 
